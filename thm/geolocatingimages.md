@@ -9,7 +9,7 @@ Write-Up to understand the Room to understand how to geolocate images.
 - [TryHackMe](https://tryhackme.com)
 
 **License**\
-[CC-BY-SA](../LICENSE.md) - SqueakyFlamingo
+[CC-BY-4.0](../LICENSE) - SqueakyFlamingo
 
 ## Contents
 - [Geolocating Images](#geolocating-images)

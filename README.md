@@ -5,7 +5,8 @@ You are going to find some write-ups for various challenges withn this repositor
 As I have just set-up this repo it may feel a bit empty around here.
 
 ## License
-[CC-BY-SA](LICENSE.md) - SqueakyFlamingo
+All wirte-ups are licensed under [CC-BY-4.0](LICENSE).\
+Author to name is SqueakyFlamingo.
 
 ## How to
 1. Find the plattform you need
