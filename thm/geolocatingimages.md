@@ -1,4 +1,4 @@
-[Write-Ups](../../README.md) > [TryHackMe](../README.md) > [Geolocating Images]()
+[Write-Ups](../README.md) > [TryHackMe](README.md) > [Geolocating Images](#geolocating-images)
 ___
 
 # Geolocating Images
@@ -6,7 +6,7 @@ Write-Up to understand the Room to understand how to geolocate images.
 
 **Links**
 - [Challenge "Geolocating Images"](https://tryhackme.com/room/geolocatingimages)
-- [TryHackMe](tryhackme.com)
+- [TryHackMe](https://tryhackme.com)
 
 **License**\
 [CC-BY-SA](../LICENSE.md) - SqueakyFlamingo
