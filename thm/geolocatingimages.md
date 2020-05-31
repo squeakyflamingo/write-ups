@@ -32,7 +32,7 @@ Accepted by TryHackMe on 31.05.2020.
     - [[Task 8] You're done!](#task-8-youre-done)
 
 ### [Task 1] Getting Started
-**Simple.*- Just read and download the ZIP. Then continue.
+**Simple.**- Just read and download the ZIP. Then continue.
 
 ### [Task 2] Getting our feet wet - where is this?
 <img src="assets/geolocatingimages/1.jpeg" width="200" alt="Image 1 from ZIP">\
@@ -54,7 +54,7 @@ Yandex on the other hand finds the object perfectly. Just like the text from Tas
 </details>
 
 ### [Task 3] Geolocationg Images 101
-Read the text. **Think*- about the steps. And continue.
+Read the text. **Think** - about the steps. And continue.
 
 ### [Task 4] Now your turn
 <img src="assets/geolocatingimages/2.png" width="200" alt="Image 2 from ZIP">\
@@ -93,9 +93,9 @@ To find the broader area direct your attention onto the two large landmarks in t
 
 The tower looks a bit like the Eiffel tower in Paris and therefore the river may be the Seine.
 
-Now open a map of your choice and try to locate the images view in *Meudon forest- south-west of Paris*.\
-On Gogle maps you will find, as a marked point of interest, the *Paris Observatory*.\
-Find it on Wikipedia and find out which facility is shown in the current image, combine it with what you already know and you have the answer.
+Now open a map of your choice and try to locate the images view in the *forest- south-west of Paris*.\
+On Google maps you will find an interesting *point of interest*.\
+Find its Wikipedia atricel and figure out which facility is shown in image 3, combine it with some intel from maps and you have the answer.
 
 <details>
     <summary>
@@ -117,7 +117,7 @@ Use your knowledge to find the following key points:
 - left hand driving
 - livestream of some sort
 
-From the driving part try to think about a country for to match it. (e.g. Great Britain)\
+From the driving part try to think about a country for to match it. (Try thw obvious ones first. :)\
 Combine the bits of intel into a search term for Google and find the answer as one of the top results.
 
 <details>
