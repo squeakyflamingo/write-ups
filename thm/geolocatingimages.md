@@ -5,6 +5,8 @@ ___
 Write-Up to understand the Room to understand how to geolocate images.
 
 ## Informational
+Accepted by TryHackMe on 31.05.2020.
+
 ### Links
 
 - [Challenge "Geolocating Images"](https://tryhackme.com/room/geolocatingimages)
