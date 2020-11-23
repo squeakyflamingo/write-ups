@@ -5,7 +5,7 @@ You are going to find some write-ups for various challenges withn this repositor
 As I have just set-up this repo it may feel a bit empty around here.
 
 ## License
-All write-ups are licensed under [CC-BY-4.0](LICENSE).\
+All write-ups are licensed under [CC-BY-4.0](LICENSE.md).\
 Author to name is SqueakyFlamingo.
 
 ## How to
